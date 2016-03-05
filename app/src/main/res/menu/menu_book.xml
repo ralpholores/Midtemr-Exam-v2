@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="timagos.com.bookshelfone.MainActivity">
+
+    <item
+        android:id="@+id/edit"
+        android:icon="@mipmap/ic_edit"
+        app:showAsAction="ifRoom|withText"
+        android:title="" />
+
+    <item
+        android:id="@+id/delete"
+        android:icon="@mipmap/ic_delete"
+        app:showAsAction="ifRoom|withText"
+        android:title="" />
+</menu>
